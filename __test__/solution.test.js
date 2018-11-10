@@ -13,4 +13,3 @@ describe('#solution.js', () => {
     expect(radix.radixSort(testArray2)).toEqual([1, 2, 9, 10, 18, 35]);
   });
 });
-
